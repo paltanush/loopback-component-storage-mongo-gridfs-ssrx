@@ -1,0 +1,23 @@
+{
+  "name": "loopback-component-storage-mongo-gridfs-ssrx",
+  "version": "1.0.3",
+  "description": "loopback storage mongo gridfs component",
+  "main": "index.js",
+  "keywords": [
+    "loopback",
+    "mongodb",
+    "gridfs"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitank Aggarwal",
+  "dependencies": {
+    "busboy": "^0.2.14",
+    "gridfs-stream": "^1.1.1",
+    "lodash": "^4.17.10",
+    "mongodb": "^3.1.1",
+    "zip-stream": "^1.2.0",
+    "fs-extra": "^8.1.0"
+  }
+}
